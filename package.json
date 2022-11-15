@@ -6,6 +6,7 @@
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
     "babel": "^6.23.0",
+    "parcel": "^1.12.4",
     "yaml": "^1.10.2"
   },
   "scripts": {
