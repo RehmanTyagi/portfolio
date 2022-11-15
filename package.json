@@ -2,7 +2,7 @@
   "name": "rehman-portfolio",
   "version": "1.0.0",
   "description": "this is a portfolio to show my web development skills and career progress.",
-  "default": "index.html",
+  "default": "controller.js",
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
     "babel": "^6.23.0",
