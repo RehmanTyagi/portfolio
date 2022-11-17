@@ -2,6 +2,10 @@
   "name": "rehman-portfolio",
   "version": "1.0.0",
   "description": "this is a portfolio to show my web development skills and career progress.",
+<<<<<<< HEAD
+=======
+  "default": "index.html",
+>>>>>>> b16edfbc36485da65226701d1227246950f115fb
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
     "babel": "^6.23.0",
@@ -10,7 +14,7 @@
   },
   "scripts": {
     "start": " parcel index.html",
-    "build": " parcel build index.html"
+    "build": "npx parcel build index.html"
   },
   "repository": {
     "type": "git",
