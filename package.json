@@ -5,7 +5,8 @@
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
     "babel": "^6.23.0",
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.0",
+    "typed.js": "^2.0.12"
   },
   "scripts": {
     "start": " parcel index.html",
