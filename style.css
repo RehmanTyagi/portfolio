@@ -535,6 +535,7 @@ h1 {
   grid-template-columns: repeat(2, 1fr);
   direction: rtl;
   text-align: left;
+  cursor: pointer;
 }
 
 .social-media_container img {
